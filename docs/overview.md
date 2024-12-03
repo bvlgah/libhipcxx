@@ -116,7 +116,7 @@ this feature to minimize source code changes.
 # Requirements 
 - CMake >=3.12
 - ROCm with HIP >=6.2.0 
-- AMD MI100, MI200, MI300, RDNA3 GPU/gfx1100 (NVIDIA GPUs are currently not supported)
+- AMD MI100, MI200, MI300, RDNA3 GPU/gfx1100, gfx1103 (NVIDIA GPUs are currently not supported)
 - Linux OS (Windows is currently not supported)
 
 For running the integrated LIT unit tests:
